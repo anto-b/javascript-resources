@@ -12,7 +12,7 @@
         - Stringhe
         - Numeri
         - Booleani
-        
+
     - Strutturati
         - Vettori
         - Vettori multidimensionali
@@ -34,15 +34,24 @@
 
 <br>
 
-5. Strutture di controllo
+5. Strutture di controllo decisionali
     - if/else
     - if/else if/else
     - switch
 
-6. Strutture iterative
+6. Strutture di controllo iteritive
     - for
 
 <br>
 
 7. Funzioni
+
+<br>
+
+### CREDITS AND ATTRIBUTION
+
+- Images (_In order of appearance_): 
+    - [javascript-is-everywhere](https://dev.to/carlillo/why-you-should-learn-javascript-1ph4)
+    - [html_css_javascript_infographic](https://brytdesigns.com/html-css-javascript-whats-the-difference/)
+    - [uses_of_javascript](https://w3cschoool.com/what-are-the-uses-of-javascript)
 
